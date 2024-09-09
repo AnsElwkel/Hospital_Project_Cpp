@@ -1,0 +1,3 @@
+/home/anaselwkel/CLionProjects/Hospital_Project/cmake-build-debug/CMakeFiles/Hospital_Project.dir
+/home/anaselwkel/CLionProjects/Hospital_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anaselwkel/CLionProjects/Hospital_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
